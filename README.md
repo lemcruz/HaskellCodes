@@ -1,2 +1,2 @@
 # HaskellCodes
-Some codes in Haskell made to learn functional programming.
+Some programs in Haskell I made while learning functional programming.
